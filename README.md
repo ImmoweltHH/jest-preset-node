@@ -1,5 +1,6 @@
 # @immowelt/jest-preset-node
 
+[![Powered by Immowelt](https://img.shields.io/badge/powered%20by-immowelt-yellow.svg?colorB=ffb200)](https://stackshare.io/immowelt-group/)
 [![Greenkeeper badge](https://badges.greenkeeper.io/ImmoweltGroup/jest-preset-node.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/ImmoweltGroup/jest-preset-node.svg?branch=master)](https://travis-ci.org/ImmoweltGroup/jest-preset-node)
 [![Dependency Status](https://david-dm.org/ImmoweltGroup/jest-preset-node.svg)](https://david-dm.org/ImmoweltGroup/jest-preset-node)
@@ -19,7 +20,7 @@ Then add the following contents into the `package.json`:
 {
   ...,
   "jest": {
-    "preset": "jest-preset-angular"
+    "preset": "@immowelt/jest-preset-node"
   },
   ...
 }
