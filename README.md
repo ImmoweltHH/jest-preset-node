@@ -1,9 +1,9 @@
 # @immowelt/jest-preset-node
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/ImmoweltHH/jest-preset-node.svg)](https://greenkeeper.io/)
-[![Build Status](https://travis-ci.org/ImmoweltHH/jest-preset-node.svg?branch=master)](https://travis-ci.org/ImmoweltHH/jest-preset-node)
-[![Dependency Status](https://david-dm.org/ImmoweltHH/jest-preset-node.svg)](https://david-dm.org/ImmoweltHH/jest-preset-node)
-[![devDependency Status](https://david-dm.org/ImmoweltHH/jest-preset-node/dev-status.svg)](https://david-dm.org/ImmoweltHH/jest-preset-node#info=devDependencies&view=table)
+[![Greenkeeper badge](https://badges.greenkeeper.io/ImmoweltGroup/jest-preset-node.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/ImmoweltGroup/jest-preset-node.svg?branch=master)](https://travis-ci.org/ImmoweltGroup/jest-preset-node)
+[![Dependency Status](https://david-dm.org/ImmoweltGroup/jest-preset-node.svg)](https://david-dm.org/ImmoweltGroup/jest-preset-node)
+[![devDependency Status](https://david-dm.org/ImmoweltGroup/jest-preset-node/dev-status.svg)](https://david-dm.org/ImmoweltGroup/jest-preset-node#info=devDependencies&view=table)
 
 > Common configuration options for Jest in Node.js environments.
 
