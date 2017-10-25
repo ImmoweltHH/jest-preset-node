@@ -5,6 +5,7 @@
 [![Build Status](https://travis-ci.org/ImmoweltGroup/jest-preset-node.svg?branch=master)](https://travis-ci.org/ImmoweltGroup/jest-preset-node)
 [![Dependency Status](https://david-dm.org/ImmoweltGroup/jest-preset-node.svg)](https://david-dm.org/ImmoweltGroup/jest-preset-node)
 [![devDependency Status](https://david-dm.org/ImmoweltGroup/jest-preset-node/dev-status.svg)](https://david-dm.org/ImmoweltGroup/jest-preset-node#info=devDependencies&view=table)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 > Common configuration options for Jest in Node.js environments.
 
@@ -26,5 +27,8 @@ Then add the following contents into the `package.json`:
 }
 ```
 
-## License
-See the LICENSE file at the root of the repository.
+## Contributing
+See the `CONTRIBUTING.md` file at the root of the repository.
+
+## Licensing
+See the `LICENSE` file at the root of the repository.
