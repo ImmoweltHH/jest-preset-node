@@ -1,7 +1,5 @@
 {
-  "collectCoverageFrom": [
-    "src/**/*.js"
-  ],
+  "collectCoverageFrom": ["src/**/*.js"],
   "coverageThreshold": {
     "global": {
       "branches": 70,
@@ -10,13 +8,12 @@
       "statements": 70
     }
   },
-  "testMatch": [
-    "<rootDir>/src/**/?(*.)spec.js"
-  ],
+  "testMatch": ["<rootDir>/src/**/?(*.)spec.js"],
   "testEnvironment": "node",
   "testURL": "http://localhost",
-  "moduleFileExtensions": [
-    "js",
-    "json"
-  ]
+  "transform": {
+    "^.+\\.js$": "babel-jest"
+  },
+  "transformIgnorePatterns": ["node_modules/(?!@immowelt)"],
+  "moduleFileExtensions": ["js", "json"]
 }
