@@ -8,7 +8,7 @@
     "Common configuration options for Jest in Node.js environments.",
   "main": "jest-preset.json",
   "scripts": {
-    "test": "npm run lint",
+    "test": "yarn run lint",
     "lint": "eslint .",
     "semantic-release":
       "semantic-release pre && npm publish --access=public && semantic-release post",
@@ -18,8 +18,7 @@
     "**/*.{js,json,css}": ["prettier --write", "git add"]
   },
   "engines": {
-    "node": ">=8.2.0",
-    "npm": ">=5.3.0"
+    "node": ">=8.2.0"
   },
   "devDependencies": {
     "@immowelt/eslint-config-immowelt-react": "2.0.3",
