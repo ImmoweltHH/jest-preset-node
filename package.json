@@ -32,7 +32,7 @@
     "semantic-release": "^8.0.0"
   },
   "dependencies": {
-    "babel-jest": "^22.0.0"
+    "babel-jest": "^23.0.0"
   },
   "repository": {
     "type": "git",
