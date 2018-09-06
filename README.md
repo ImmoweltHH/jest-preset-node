@@ -12,7 +12,7 @@
 ## Usage
 If you want to use the  `@immowelt/jest-preset-node`, you can install it by executing:
 ```bash
-npm i -D @immowelt/jest-preset-node
+yarn add @immowelt/jest-preset-node --dev
 ```
 
 Then add the following contents into the `package.json`:
