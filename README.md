@@ -10,7 +10,9 @@
 > Common configuration options for Jest in Node.js environments.
 
 ## Usage
+
 If you want to use the  `@immowelt/jest-preset-node`, you can install it by executing:
+
 ```bash
 yarn add @immowelt/jest-preset-node --dev
 ```
