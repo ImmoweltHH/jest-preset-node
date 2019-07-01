@@ -21,7 +21,7 @@
     "yarn": ">=1.6.0"
   },
   "devDependencies": {
-    "@semantic-release/github": "5.4.0",
+    "@semantic-release/github": "5.4.2",
     "@semantic-release/npm": "5.1.13",
     "semantic-release": "15.9.15"
   },
