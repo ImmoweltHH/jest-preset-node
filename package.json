@@ -17,16 +17,16 @@
     "jest-preset.json"
   ],
   "engines": {
-    "node": ">=8.11.4",
-    "yarn": ">=1.6.0"
+    "node": ">=12.14.1",
+    "yarn": ">=1.21.1"
   },
   "devDependencies": {
-    "@semantic-release/github": "5.5.8",
-    "@semantic-release/npm": "5.3.5",
-    "semantic-release": "15.9.15"
+    "@semantic-release/github": "6.0.1",
+    "@semantic-release/npm": "6.0.0",
+    "semantic-release": "16.0.2"
   },
   "peerDependencies": {
-    "jest": "^23.0.0"
+    "jest": "23.x || 24.x"
   },
   "keywords": [
     "immowelt",

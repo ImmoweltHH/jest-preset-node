@@ -1,5 +1,8 @@
 {
-  "collectCoverageFrom": ["src/**/*.js"],
+  "collectCoverageFrom": [
+    "**/src/**/*.js",
+    "**/config/**/*.js"
+],
   "coverageThreshold": {
     "global": {
       "branches": 70,
@@ -15,5 +18,12 @@
     "^.+\\.js$": "babel-jest"
   },
   "transformIgnorePatterns": ["node_modules/(?!@immowelt)"],
-  "moduleFileExtensions": ["js", "json"]
+  "moduleFileExtensions": ["js", "json"],
+  "coveragePathIgnorePatterns": [
+    "/node_modules/",
+    "/build/",
+    "/coverage/",
+    "/dist/",
+    "/bin/"
+  ]
 }
