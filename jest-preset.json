@@ -11,7 +11,7 @@
       "statements": 70
     }
   },
-  "testMatch": ["<rootDir>/src/**/?(*.)spec.js"],
+  "testMatch": ["<rootDir>/**/?(*.)spec.js"],
   "testEnvironment": "node",
   "testURL": "http://localhost",
   "transform": {
